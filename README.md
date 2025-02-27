@@ -22,7 +22,6 @@ This repository organizes resources into topic-specific sections, making it easy
 - **Foundations/**  
   - `overview.md` - Introduction to foundational concepts
   - `mathematics.md` - Algebra, Calculus, Probability, Linear Algebra
-  - `statistics.md` - Basic statistics for data science
   - `programming.md` - Python and essential programming skills
 - **Machine_Learning/**  
   - `introduction.md` - Overview of machine learning concepts
