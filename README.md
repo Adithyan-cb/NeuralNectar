@@ -1,5 +1,4 @@
-![NeuralNectar](images/neurlnectar (1).png)
-
+![NeuralNectar](/images/neuralnectar-logo.png)
 
 # Neural Nectar
 
