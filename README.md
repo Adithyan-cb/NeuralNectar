@@ -1,6 +1,5 @@
 ![NeuralNectar](/images/neuralnectar-logo.png)
 
-# Neural Nectar
 
 Welcome to the **Neural Nectar** repository—a curated collection of learning materials designed to take you from a beginner to an expert in Artificial Intelligence, Machine Learning, and Deep Learning.
 
